@@ -1,4 +1,6 @@
 import streamlit as st
-st.header('Welcome to Dublin!')
-dublin = Image.open(https://ibb.co/T4vDJvw)
-st.image(dublin)
+from PIL import Image
+
+image = Image.open('sunrise.jpg')
+
+st.image(image, caption='Sunrise by the mountains')
