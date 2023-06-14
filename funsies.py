@@ -12,7 +12,4 @@ with st.container():
   left_column, right_column = st.columns(2)
   with left_column:
     st.header("What I've been working on")
-    st.write(##)
-      st. write(
-        """Status reporting, Billable Events, EDU Case Management, and more""")
-  
+    st.write("Status reporting, Billable Events, EDU Case Management and so much more!")
