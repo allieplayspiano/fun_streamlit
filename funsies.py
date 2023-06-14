@@ -1,5 +1,6 @@
 import streamlit as st
-from streamlit_lottie import st_lottie
+pip install lottie
+
 
 st.set_page_config(page_title="Welcome to the Dublin Office!", page_icon=":tada:", layout="wide")
 st.title("Welcome to the Dublin Office! :tada:")
