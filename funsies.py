@@ -1,11 +1,9 @@
 import streamlit as st
 
 st.set_page_config(page_title="Welcome to the Dublin Office!", page_icon=":tada:", layout="wide")
-st.title("Welcome to the Dublin Office! :tada:")
-st.header("Hi, I'm Allison!")
-st.subheader("We are so excited to have you here :wave:")
-st.write("I'm your friendly BSA from the GTM-Applications team. Come swing by anytime if you have a question!")
-st.write("[Learn More about Snowflake here>](https://www.snowflake.com/en/)")
+st.title("Allison's 6 Month Mark :woman_office_worker:")
+st.subheader("Always learning, always striving, always delivering")
+st.write("[Check out my LinkedIn Here>](https://www.linkedin.com/in/allison-fernandez-9519b095/)")
 
 with st.container():
   st.write("---")
