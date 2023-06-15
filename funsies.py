@@ -31,4 +31,5 @@ with st.container():
 
     """)
     with right_column: 
-      st.header("Test")
+      image_path = "Users/alfernandez/Desktop/worker.jpeg"
+      
