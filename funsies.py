@@ -16,7 +16,7 @@ with st.container():
     - Automating the creation of PTO assignments within Financial Force in order free up to 25% of time per week for Resource Delivery Managers. (Current process takes 5-10 hours per RDM). 
    
     Phase I of II Complete: Rebillable Expenses Automation 
-    Go-Live: July 13, 2023
+    ##Go-Live: July 13, 2023
     - Automatically syncing expenses submitted/approved in Workday for PS Engagements into Financial Force for billing, saving up to 8 hours a month for the PS Operations Team 
 
     """)
