@@ -19,4 +19,14 @@ with st.container():
     Go-Live: July 13, 2023
     - Automatically syncing expenses submitted/approved in Workday for PS Engagements into Financial Force for billing, saving up to 8 hours a month for the PS Operations Team 
 
+    In Flight: Billable Events
+    - Eliminating the manual back-and-forth reconciliation process at month end to ultimately create Billable Events that will be picked up in the SnowBridge integration.
+
+    In Flight: Status Reporting \n
+    Potential Snow-on-Snow Use Case
+    - Integrating disparate data sources (FinancialForce, Snowhouse, Tableau, etc) in order to automatically generate status reports for PS Engagements, which will ultimately save up to 3 hours/week per RSA in order to free up more time for engagements.
+
+    In Flight: PS and EDU Case Management
+    - While there is a standardized process for EDU case management, it lacks maturity. PS doesn’t have a current process for logging cases for customers. This project will standardize and streamline the PS and EDU Case Management process to increase time to resolution and increase Customer Satisfaction.
+
     """)
