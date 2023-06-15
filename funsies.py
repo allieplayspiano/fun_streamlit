@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(page_title="Welcome to the Dublin Office!", page_icon=":tada:", layout="wide")
-st.title("Allison's 6 Month Mark :woman_office_worker:")
+st.title("Allison's 6 Month Mark :tada:")
 st.subheader("Always learning, always striving, always delivering")
 st.write("[Check out my LinkedIn Here>](https://www.linkedin.com/in/allison-fernandez-9519b095/)")
 
