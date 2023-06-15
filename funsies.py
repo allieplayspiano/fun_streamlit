@@ -32,4 +32,5 @@ with st.container():
     """)
     with right_column: 
       image_path = "Users/alfernandez/Desktop/worker.jpeg"
-      
+      st.image(image_path, caption='Me at work', use_column_width=True)
+
