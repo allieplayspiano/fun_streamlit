@@ -30,3 +30,5 @@ with st.container():
     - While there is a standardized process for EDU case management, it lacks maturity. PS doesn’t have a current process for logging cases for customers. This project will standardize and streamline the PS and EDU Case Management process to increase time to resolution and increase Customer Satisfaction.
 
     """)
+    with right_column: 
+    st.header("Test")
